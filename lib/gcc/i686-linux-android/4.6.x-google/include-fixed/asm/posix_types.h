@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/Users/andrewhsieh/internaldroid/ndk/toolchains/x86-4.6/prebuilt/darwin-x86/sysroot/usr/include/asm/posix_types.h"
+	"/tmp/ndk-User/build/toolchain/prefix/sysroot/usr/include/asm/posix_types.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
